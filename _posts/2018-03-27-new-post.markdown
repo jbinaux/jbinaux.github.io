@@ -1,0 +1,10 @@
+---
+
+layout: post
+title: New Post
+
+---
+
+this is a new post, I don't fully know how to build it.
+
+But it seems to work fairly well.
